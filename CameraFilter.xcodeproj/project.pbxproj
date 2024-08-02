@@ -440,6 +440,8 @@
 				DEVELOPMENT_TEAM = H4BFHZ8NY6;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CameraFilter/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app requires the use of a camera";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "This app requires use of a mic";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -468,6 +470,8 @@
 				DEVELOPMENT_TEAM = H4BFHZ8NY6;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CameraFilter/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app requires the use of a camera";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "This app requires use of a mic";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
